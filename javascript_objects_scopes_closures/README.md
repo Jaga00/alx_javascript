@@ -1,0 +1,1 @@
+After the previous Into to JS (JavaScript-warma up), I start digging deeper with Objects, Scopes, Closures.
