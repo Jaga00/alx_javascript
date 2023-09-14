@@ -28,6 +28,6 @@ request(url, (error, response, body) => {
       return;
     }
 
-    console.log(`Contents of ${url} have been saved to ${filePath}`);
+    console.log();
   });
 });

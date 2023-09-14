@@ -23,5 +23,5 @@ request(apiUrl, (error, response, body) => {
   }
 
   const movieData = JSON.parse(body);
-  console.log(`Title: ${movieData.title}`);
+  console.log(`${movieData.title}`);
 });
