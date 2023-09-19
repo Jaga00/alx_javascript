@@ -1,0 +1,1 @@
+With this JavaScript advanced, I went to a deeper learning about javaScript programming language.
